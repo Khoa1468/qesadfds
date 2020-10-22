@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\ProjetCSharp\obj\Debug\netcoreapp3.1\ProjetCSharp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjetCSharp\obj\Debug\netcoreapp3.1\ProjetCSharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ProjetCSharp\obj\Debug\netcoreapp3.1\ProjetCSharp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ProjetCSharp\obj\Debug\netcoreapp3.1\ProjetCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjetCSharp\bin\Debug\netcoreapp3.1\ProjetCSharp.exe
+C:\Users\Admin\Desktop\ProjetCSharp\bin\Debug\netcoreapp3.1\ProjetCSharp.deps.json
+C:\Users\Admin\Desktop\ProjetCSharp\bin\Debug\netcoreapp3.1\ProjetCSharp.runtimeconfig.json
+C:\Users\Admin\Desktop\ProjetCSharp\bin\Debug\netcoreapp3.1\ProjetCSharp.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ProjetCSharp\bin\Debug\netcoreapp3.1\ProjetCSharp.dll
+C:\Users\Admin\Desktop\ProjetCSharp\bin\Debug\netcoreapp3.1\ProjetCSharp.pdb
+C:\Users\Admin\Desktop\ProjetCSharp\obj\Debug\netcoreapp3.1\ProjetCSharp.dll
+C:\Users\Admin\Desktop\ProjetCSharp\obj\Debug\netcoreapp3.1\ProjetCSharp.pdb
+C:\Users\Admin\Desktop\ProjetCSharp\obj\Debug\netcoreapp3.1\ProjetCSharp.genruntimeconfig.cache
